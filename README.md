@@ -2,4 +2,4 @@
 This is my first Git Repository.
 <br>
 Author - Murthy
-Company - IBM
+Organization - IBM
